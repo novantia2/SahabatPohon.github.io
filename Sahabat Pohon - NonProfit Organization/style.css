@@ -1,0 +1,163 @@
+
+    .container{
+        margin: 0 auto;
+        width: 800px;
+    }
+
+    .head{
+    width: 800px;
+    height: 110px;
+    background-color:#f3f3eb;
+    }
+
+    
+
+    .head img {
+    width: 250px;
+    margin: 15px;
+    
+    }
+
+    .navBar{
+        width: 800px;
+        height: 40px;
+        background-color: #969062;
+        display: flex;
+        align-items: center;
+    }
+
+
+    .navBar a{
+        color: black;
+        margin: 75px;
+        text-align: center;
+        text-align: flex;
+        text-size-adjust: 35%;
+    }
+
+    .content{
+        width: 800px;
+        height: 600px;
+        display: flex;
+        background-color: #eeeeec;
+    }
+
+    main{
+        width: 70%;
+        height:100%;
+    }
+
+
+    .ads{
+        width: 30%;
+        height: 100%;
+        background-color:#dae3ca;
+    }
+
+    .ads p{
+        padding-top: -10px;
+        padding-left: 20px;
+    }
+
+    
+.content1{
+    width: 100%;
+    display: flex;
+}
+
+.photo1{
+    width: 150px;
+    height:140px;
+    padding: 20px;
+}
+
+.isicontent1 p{
+text-align: justify;
+margin-top: -10px;
+margin-right: 25px;
+}
+
+.content2{
+    width: 100%;
+    display: flex;
+    
+}
+
+.photo2{
+    width: 150px;
+    height:140px;
+    padding: 20px;
+}
+
+.isicontent2 p{
+text-align: justify;
+margin-top: -10px;
+margin-right: 25px;
+}
+
+.section2{
+    width: 92%;
+    padding-left: 22px; 
+    padding-top: 10px;
+}
+
+.tablejadwal {
+    border: 10px solid  #becaa9;
+    border-spacing: 20px;
+    border-collapse: separate;
+    border-radius: 10px;
+    box-shadow: 0 1px 5px  #becaa9;
+   }
+
+   th {
+    box-shadow: 0 1px 5px   #becaa9;
+    border-bottom: 2px solid  #becaa9;
+   }
+   
+   td {
+    border-bottom: 2px solid #becaa9;
+   }
+   
+ 
+
+   .iklanphoto1{
+    width: 80%;
+    height: 90%;
+    padding: 30px;
+
+   }
+
+   .iklanphoto2{
+    width: 80%;
+    height: 90%;
+    padding: 30px;
+    margin-top: -40px;
+   }
+
+   .iklan3{
+    width: 80%;
+    height: 90%;
+    padding: 30px;
+    margin-top: -40px;
+   }
+
+
+   footer{
+    width: 100%;
+    height: 125px;
+    background-color:black;
+    padding-top: 30px;
+    
+  }
+
+   .Copyright p{
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+   }
+   
+
+
+    
+
+

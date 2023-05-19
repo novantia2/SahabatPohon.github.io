@@ -1,0 +1,152 @@
+.container{
+    margin: 0 auto;
+    width: 800px;
+}
+
+.head{
+width: 800px;
+height: 110px;
+background-color:#f3f3eb;
+
+}
+
+.head img {
+width: 250px;
+margin: 15px;
+
+}
+
+.navBar{
+    width: 800px;
+    height: 40px;
+    background-color: #969062;
+    display: flex;
+    align-items: center;
+}
+
+
+.navBar a{
+    color: black;
+    margin: 75px;
+    text-align: center;
+    text-align: flex;
+    text-size-adjust: 35%;
+}
+
+.KontenIsi{
+    width: 100%;
+    height: 387px;
+    background-color: #eeeeec;
+}
+
+.bag1{
+    display: flex;
+}
+
+.bacaan{
+width: 65%;
+}
+
+.gambarinfo{
+width: 35%;
+background-color: #eeeeec;
+}
+
+.content1{
+    width: 100%;
+    display: flex;
+}
+
+.photo1{
+    width: 150px;
+    height:140px;
+    padding: 20px;
+}
+
+.isicontent1 p{
+text-align: justify;
+margin-top: -10px;
+margin-right: 25px;
+}
+
+.content2{
+    width: 100%;
+    display: flex;
+    
+}
+
+.photo2{
+    width: 150px;
+    height:140px;
+    padding: 20px;
+}
+
+.isicontent2 p{
+text-align: justify;
+margin-top: -10px;
+margin-right: 25px;
+}
+
+.gambarinfo img{
+    width: 270px;
+    height: 370px;
+    padding-top: 5px;
+    
+}
+
+.JudulAktivitas{
+    text-align: center;
+    width: 800px;
+    margin: -18px;
+
+}
+.bag2{
+    display: flex;
+}
+
+.Aktivitas1{
+    text-align: center;
+    width: 33.33%;
+}
+.Aktivitas2{
+    text-align: center;
+    width: 33.33%;
+}
+.Aktivitas3{
+    text-align: center;
+    width: 33.33%;
+}
+
+.Aktivitas1 button{
+    background-color:#969062;
+    color: #eeeeec;
+}
+
+.Aktivitas2 button{
+    background-color:#969062;
+    color: #eeeeec;
+}
+
+.Aktivitas3 button{
+    background-color: #969062;
+    color: #eeeeec;
+}
+
+.second{
+    height: 175px;
+    background-color: #eeeeec;
+}
+
+footer{
+    width: 100%;
+    height: 125px;
+    background-color:black;
+    padding-top: 30px;
+    
+  }
+
+.Copyright p{
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+   }
